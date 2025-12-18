@@ -1,4 +1,4 @@
-# Cybernaut - Web Scraper Project (Mini Project 2)
+# CYBERNAUT - IMAGE VIEWER USING TKINTER
 
 Short image viewer for the "MONTH 3 MINI PROJECT 2" workspace.
 
@@ -39,3 +39,4 @@ The script will load images from the `images/` directory. Add images to that fol
 
 **License**
 This project does not include a license file. Add one if you plan to publish the code.
+
